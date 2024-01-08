@@ -1,33 +1,29 @@
-# VirtualHub
+<div align="center">
+<img src="https://virtualhub.eu.org/logo-virtualhub.webp" alt="VirtualHub logo" width="120" style="border-radius: 50%;">
+<h1>VirtualHub</h1>
 
-<p align="center">
-    <img src="https://virtualhub.eu.org/logo-virtualhub.webp" alt="VirtualHub logo" style="border-radius: 50%" width="120">
-</p>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f3628b8f-6401-45f2-8363-1c1db1543cfe/deploy-status)](https://app.netlify.com/sites/virtua1hub/deploys)
+[![CodeQL](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/codeql-analysis.yml)
+[![Hyas CI](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/node.js-ci.yml/badge.svg)](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/node.js-ci.yml)
+[![Discord](https://discordapp.com/api/guilds/1176107431013646357/widget.png?style=shield)](https://chat.virtualhub.eu.org)
+
+<p align="center">Welcome to VirtualHub, the playground of legacy Operating Systems. Here, we are going to install the same operating system in many different Virtual Environments and Emulators.</p>
+
+---
+</div>
 
 > Visit [VirtualHub Blog](https://virtualhub.eu.org/blog/) to know more about the fascinating history and stories about VirtualHub.
 
-Welcome to [VirtualHub](https://virtualhub.eu.org), the playground of legacy Operating Systems. Here, we are going to install the same operating system in many different Virtual Environments and Emulators.
+VirtualHub is a repository of tutorials and resources on how to install old operating systems and apps in virtual machines and emulators. We believe that *everyone* should learn about the heritage of computing. What is the best way to learn how the classical operating systems used to look and behave? What is the best way to learn what the users of those systems felt? To run those systems and apps yourself, of course.
 
-<div align="center">
-  <p>Come, chat with us on Discord:</p>
-  <p>
-    <a href="https://chat.virtualhub.eu.org">
-      <img src="https://discordapp.com/api/guilds/1176107431013646357/widget.png?style=banner2" alt="Discord Banner"/>
-    </a>
-  </p>
-</div>
+We help you do that by providing you clear guidance on how to start running those systems and apps on the emulator or VM software of your choice. We believe that each emulator and VM software has their own advantage. So, we cover installing the same operating system on many of them.
 
-So, how is this different from [Legacy Installer](https://legacyinstaller.pcriot.com/), our old website? The idea behind this separate website had been roaming in my head for a long time. I was getting frustrated by WordPress but did not want to leave it because it provided many features.
+We provide many resources to help you learn how to use the OSs and apps too. We provide links to many sites and third-party tutorials related to the OS or app. One of the characteristic features of the old software were their manuals. We provide links to PDF copies of the documentation manuals of those OS and apps, if available, so that you can have the same learning experience as the people in that age.
 
-VirtualHub is a static site and it is fast. I first used [Publii](https://getpublii.com/) to create and manage it. This enabled me to write and edit tutorials offline and publish them after proper editing. Since it is not hosted on any web server, all the writing and editing part is very fast and efficient, unlike WordPress.
+We also provide tutorials on how to install the emulators themselves, but since they are modern software and ever-changing, those tutorials need to be updated very frequently. Hence, we host those on a separate site: [https://setup.virtualhub.eu.org](https://setup.virtualhub.eu.org).
 
-But Publii had its limitations, so I began to search for an alternative. This version of VirtualHub is built using [Netlify](https://www.netlify.com/), [Hugo](https://gohugo.io/), and [Doks](https://getdoks.org/).
+Though we believe that everyone should *run* these operating systems and apps themselves to feel their real power, we know that not everyone has time or resources to do so. That's why we have a separate site with screenshots of these operating systems and apps: [https://screenshots.virtualhub.eu.org](https://screenshots.virtualhub.eu.org).
 
-Initially, VirtualHub was a single website, meant to complement the old Legacy Installer website. You can still visit the old website here: <https://old.virtualhub.eu.org>. Now, VirtualHub is a platform of many different websites complementing each other and have no relation with Legacy Installer.
+While the computing history is diverse, the majority of desktop apps made after 1980 run on DOS or Windows. Though we can run those on the emulated operating systems, we can also run them in a better way using software such as [DOSBox-X](https://dosbox-x.com/) or [WINE](https://www.winehq.org/). Most old apps made for Windows can also directly run on modern Windows. We will soon launch a separate website with tutorials on how to run such apps via these methods.
 
-Instead of using Windows to write the tutorials and make videos, I will use different Linux distributions. You do not need to worry about it. I have created a separate website to help you install a good Linux Distribution for beginners,  [Kubuntu](https://kubuntu.org), and also help you install the software required to follow VirtualHub tutorials on it: <https://setup.virtualhub.eu.org>. You can keep your Windows installation and dual boot. I will use it for all the videos from now on. If you want, you can continue using Windows but the steps may need to be modified for you. For emulators and other software that do not have a Linux version or if the Linux version does not work properly, I will use [WINE](https://www.winehq.org/) to run them.
-
-I am also introducing several other websites which will be available soon:
-
-- [VirtualHub Screenshots](https://screenshots.virtualhub.eu.org) - Screenshots of old Software.
-- [VirtualHub DOSBox-X](https://dosbox-x.virtualhub.eu.org) - Installing old software directly on DOSBox-X.
+VirtualHub is a volunteer project. We do *not* display any advertisement or track you in any way. We do not have any income from the VirtualHub project. While we use only free tools to make and host these websites, so we don't have any expenses, our work is still unpaid. You can help us by [contributing to VirtualHub](https://github.com/InstallerLegacy/virtualhub.eu.org/blob/main/CONTRIBUTING.md).
