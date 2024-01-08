@@ -14,7 +14,7 @@
 
 > Visit [VirtualHub Blog](https://virtualhub.eu.org/blog/) to know more about the fascinating history and stories about VirtualHub.
 
-VirtualHub is a repository of tutorials and resources on how to install old operating systems and apps in virtual machines and emulators. We believe that *everyone* should learn about the heritage of computing. What is the best way to learn how the classical operating systems used to look and behave? What is the best way to learn what the users of those systems felt? To run those systems and apps yourself, of course.
+[VirtualHub](https://virtualhub.eu.org) is a repository of tutorials and resources on how to install old operating systems and apps in virtual machines and emulators. We believe that *everyone* should learn about the heritage of computing. What is the best way to learn how the classical operating systems used to look and behave? What is the best way to learn what the users of those systems felt? To run those systems and apps yourself, of course.
 
 We help you do that by providing you clear guidance on how to start running those systems and apps on the emulator or VM software of your choice. We believe that each emulator and VM software has their own advantage. So, we cover installing the same operating system on many of them.
 
